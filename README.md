@@ -19,6 +19,8 @@ You can view my ladder logic in the attached document below.
 ---
 **Click the preview above or [download the PDF here](https://github.com/genrijust/Mini-Modular-Production-System-/blob/main/conveyer%20rasitha.pdf)**
 
+**Click [project file here](https://github.com/genrijust/Mini-Modular-Production-System-/blob/main/conveyer%202.mwp)**
+
 ## Project Overview
 
 - **Simulates real-world industrial automation**
